@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Talhah Malik</h1>
 <h3 align="center">I am an aspiring Data Scientist with experience in a biomedical setting.</h3>
 
-- 🔭 I’m currently working on **working on my GitHub!**
+- 🔭 I’m currently working on **my GitHub!**
 
-- 🌱 I’m currently learning **how to leverage natural language processing (NLP) to extract insights**
+- 🌱 I’m currently learning **how to leverage natural language processing (NLP) to extract insights 💭**
 
 - 👯 I’m looking to collaborate on **analysing datasets of medical patients and their experiences of healthcare provision in London 🏥**
 
