@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Talhah Malik</h1>
-<h3 align="center">I am an aspiring Data Scientist with experience in a biomedical setting.</h3>
+<h1 align="center">👋 Hi, I'm Talhah Malik</h1>
+
+<br>
+
+<h3 align="center">I am a graduate Clinical Bioscientist and aspiring Data Scientist.</h3>
+
+<br>
 
 - 🔭 I’m currently working on **my GitHub!**
 
